@@ -18,8 +18,8 @@ Antes de comenzar, asegúrate de tener instalados:
 ## Instalación y Configuración
 ### 1. Clonar el Repositorio
 ```sh
- git clone <URL_DEL_REPOSITORIO>
- cd <NOMBRE_DEL_PROYECTO>
+ git clone https://github.com/chgc3019/Integraci-n-con-Kafka-Net-Core.git
+ cd Integraci-n-con-Kafka-Net-Core
 ```
 
 ### 2. Levantar Kafka con Docker
